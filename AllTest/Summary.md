@@ -1,3 +1,4 @@
+* [Astrology.html](Astrology.html)
 * [WalkingMap.html](WalkingMap.html)
 * [WalkingMapThukral.html](WalkingMapThukral.html)
 * [WalkingMapThukral3.html](WalkingMapThukral3.html)
