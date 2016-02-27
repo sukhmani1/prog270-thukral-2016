@@ -4,7 +4,7 @@ Friday, 26. February 2016 02:58PM
 
 
 
-#Astrology
+# Astrology
 
 
 ***
@@ -17,7 +17,7 @@ Friday, 26. February 2016 02:58PM
 Sun sign astrology is the form of astrology most commonly found in many newspaper and magazine columns. It is a simplified system of astrology which considers only the position of the Sun at birth, which is said to be placed within one of the twelve zodiac signs. This sign is then called the sun sign or star sign of the person born in that twelfth-part of the year.
 
 Sun sign astrologers take this basic twelve-fold division and relate all the current movements of all the planets to each other, using traditional rules to divine meanings for each sign separately. Because the Moon has the fastest apparent movement of all the heavenly bodies, it is often used as the main indicator of daily trends for sun sign astrology forecasts.
-#Capricorn
+# Capricorn
 
 
 [Capricorn](https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Capricorn.svg/24px-Capricorn.svg.png) 
@@ -31,7 +31,7 @@ Capricorn is third and last of the earth signs in the zodiac. The other two eart
 ***
 
 
-#Aquarius
+# Aquarius
 [Aqurius](https://pixabay.com/static/uploads/photo/2015/05/09/07/32/aquarius-759383_960_720.jpg) 
 
 
@@ -46,7 +46,7 @@ Aquarius is a summer constellation in the northern hemisphere, found near Pisces
 Under the tropical zodiac, the sun is in Aquarius typically between January 20 and February 18, while under the Sidereal Zodiac, the sun is in Aquarius from approximately February 15 to March 14, depending on leap year.[1][2]
 
 ***
-#Pisces
+# Pisces
 
 [Pisces](ttps://s-media-cache-ak0.pinimg.com/736x/bb/f8/ab/bbf8ab8c381e15e81eb545ee04c59112.jpg) 
 
@@ -55,7 +55,7 @@ Pisces (♓) (/ˈpaɪsiːz/,[1] pis'eez;[2] Ancient Greek: Ἰχθύες Ikhthye
 According to some tropical astrologers, the current astrological age is the Age of Pisces,[5] while others maintain that it is the Age of Aquarius.
 
 ***
-#Aries
+# Aries
 
 [Aries](http://www.hdwallpaperscool.com/wp-content/uploads/2015/04/aries-hd-wallpaper-download-aries-images-free.jpg) 
 
@@ -69,13 +69,13 @@ Individuals born during these dates, depending on which system of astrology they
 Aries is the first fire sign in the zodiac, the other fire signs being Leo and Sagittarius
 
 ***
-#Taurus
+# Taurus
 
 [Taurus](http://www.kamalkapoor.com/wallpapers/download.php?id=1092&size=2&name=taurus) 
 
 Taurus (Latin for "the Bull"; symbol: Taurus.svg, Unicode: ♉) is the second astrological sign in the present Zodiac. It spans the 30-60th degree of the zodiac, between 27.25 and 54.75 degree of celestial longitude. Under the tropic zodiac, the Sun transits this area on average between April 21 and May 21 each year. Under the sidereal zodiac, the Sun transits the constellation of Taurus from May 15 (approx.) to June 21. People born between these dates, depending on which system of astrology they subscribe to, may be called Taureans.[1][2] The symbol of the bull is based on the Cretan Bull, the white bull that fathered the Minotaur who was killed by Theseus.[3]
 
-#Gemini
+# Gemini
 
 [Gemini](http://stwww.canoekayak.com/files/2012/08/Gemini.jpg) 
 
@@ -83,7 +83,7 @@ Gemini (pronunciation: /ˈdʒɛmɪnaɪ/ or /ˈdʒɛmɪniː/ JEM-in-eye or JEM-in
 
 ***
 
-#Cancer
+# Cancer
 
 [Cancer](http://forwallpapers.com/wp-content/uploads/2014/05/cancer_zodiac_sign_wallpaper_background_dark.jpg) 
 
@@ -91,7 +91,8 @@ Gemini (pronunciation: /ˈdʒɛmɪnaɪ/ or /ˈdʒɛmɪniː/ JEM-in-eye or JEM-in
 
 Cancer (♋️) (Greek: Καρκίνος, Latin: Cancer) is the fourth astrological sign, which is associated with the constellation Cancer. It spans the 90-120th degree of the zodiac, between 90 and 125.25 degree of celestial longitude. Under the tropical zodiac, the Sun transits this area on average between June 22 and July 22, and under the sidereal zodiac, the Sun transits this area between approximately July 9 and August 15. The symbol of the crab is based on the Karkinos, a giant crab that harassed Heracles during his fight with the Hydra.[1]
 ***
-#Leo
+
+# Leo
 
 [Leo](https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTv0Ms9BiEzMx9_ag469HkBN-8Kty5SPEee1Q6fGVxawr4Ob79j) 
 
@@ -99,13 +100,15 @@ Cancer (♋️) (Greek: Καρκίνος, Latin: Cancer) is the fourth astrologi
 
 Leo (♌) is the fifth astrological sign of the zodiac, originating from the constellation of Leo. It comes after Cancer and before Virgo. It spans the 120-150th degree of the Tropical zodiac, between 125.25 and 152.75 degree of celestial longitude.[1] Under the tropical zodiac, the Sun transits this area on average between July 22 and August 21 each year, and under the sidereal zodiac, the Sun currently transits this area from approximately August 16 to September 15.[2] The symbol of the lion is based on the Nemean lion, a lion with an impenetrable hide
 ***
-#Virgo
+
+# Virgo
 
 [Virgo](http://thumbs.dreamstime.com/z/constellation-virgo-4961098.jpg) 
 
 ♍) is the sixth astrological sign in the Zodiac. Virgo is the second-largest constellation. It spans the 150-180th degree of the zodiac, between 152.75 and 180 degree of celestial longitude. Under the tropical zodiac, the Sun transits this area on average between August 22 and September 21, and under the sidereal zodiac, the sun currently transits the constellation of Virgo from September 17 to October 17. Individuals born during these dates, depending on which system of astrology they subscribe to, may be called Virgos[1] or Virgoans.[2] The symbol of the maiden is based on Astraea. She was the last immortal to abandon Earth at the end of the Silver Age, when the gods fled to Olympus – hence the sign's association with Earth
 ***
-#Libra
+
+# Libra
 [Libra](http://thumbs.dreamstime.com/z/libra-27823379.jpg) 
 
 
@@ -113,7 +116,8 @@ Leo (♌) is the fifth astrological sign of the zodiac, originating from the con
 
 According to the Tropical system of astrology, the Sun enters the sign of Libra when it reaches the southern vernal equinox, which occurs around September 22.
 ***
-#Scorpio
+
+# Scorpio
 
 [Scorpio](http://thumbs.dreamstime.com/z/scorpio-8424995.jpg) 
 
@@ -122,7 +126,8 @@ According to the Tropical system of astrology, the Sun enters the sign of Libra 
 Scorpio is one of the three zodiac water signs, the others being Cancer and Pisces.
 
 ***
-#Sagittarius
+
+# Sagittarius
 
 [Sagittarius](http://thumbs.dreamstime.com/z/sagittarius-archer-if-your-sign-image-you-fire-sign-cosmic-fire-warrior-universe-31803726.jpg) 
 
