@@ -7,6 +7,7 @@
 * [WalkingMapThukral.html](WalkingMapThukral.html)
 * [WalkingMapThukral3.html](WalkingMapThukral3.html)
 * [a1.html](a1.html)
+* [california.html](california.html)
 * [canada.html](canada.html)
 * [file1.html](file1.html)
 * [index.html](index.html)
