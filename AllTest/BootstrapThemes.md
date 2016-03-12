@@ -4,6 +4,7 @@ Working with bootstrap and bootswatch themes.
 
 <button>Foo</button>
 
+
 ## Button
 
 <div class="padded">
@@ -29,23 +30,44 @@ Working with bootstrap and bootswatch themes.
     <strong>Well done!</strong> You successfully read this important alert message.
   </div>
 
+<div class="alert alert-success" role="alert">Lexus</div>
+<div class="alert alert-info" role="alert">Scion</div>
+<div class="alert alert-warning" role="alert">Volkswagen</div>
+<div class="alert alert-danger" role="alert">Nissan</div>
+
 ## Labels
 
   <span class="label label-default">Default</span>
 
+
 ## Panels
+
 
 <div class="panel panel-default">
   <div class="panel-body">
-    Basic panel example
+    CARS
   </div>
 </div>
 
-<div class="panel panel-primary">
+<div class="panel panel-default">
+  <div class="panel-heading">Panel heading without title</div>
   <div class="panel-body">
-    Basic panel example
+    Rolls-Royce
   </div>
 </div>
+
+<div class="panel panel-default">
+  <div class="panel-body">
+   Scion
+  </div>
+  <div class="panel-footer">Panel footer</div>
+</div>
+
+<div class="panel panel-primary">Lexus</div>
+<div class="panel panel-success">Nissan</div>
+<div class="panel panel-info">Volkswagen</div>
+<div class="panel panel-warning">Lincoln</div>
+<div class="panel panel-danger">Rolls-Royce</div>
 
 ## Carousel
 
@@ -77,5 +99,16 @@ Working with bootstrap and bootswatch themes.
   </a>
 </div>
 
-## Images
+
+## ListGroup
+
+
+
+<ul class="list-group">
+  <li class="list-group-item">Nissan</li>
+  <li class="list-group-item">Lexus</li>
+  <li class="list-group-item">Volkswagen</li>
+  <li class="list-group-item">Lincoln</li>
+  <li class="list-group-item">Rolls-Royce</li>
+</ul>
 
