@@ -1,17 +1,11 @@
+<div>
+  <button id="getPresidents" type="button"> Get Presidents </button>
+</div>
 
-
-# Prog 270 Thukral
-
-***
-
-
-
-
-<p>I am Sukhmani. I have spent more than 10 years writing code. I started working on HTML, CSS, Java Script then moved on to SQL and  C#. I have been exploring cloud computing for some time. I got my Salesforce Developer certification last year.
-
-I would like to learn to write mobile applications that use cloud services. Integrating them with a legacy system. Working with mobile SDK Packs.
-
-</p>
+<div>
+  <ul id='bar'>
+  </ul>
+</div>
 
 <br>
 
@@ -26,10 +20,7 @@ I would like to learn to write mobile applications that use cloud services. Inte
 <a href="BootstrapThemes.html">BootstrapThemes</a>
 <br>
 <a href="WalkingMap.html">WalkingMap</a>
-<br>
-<br>
-<br>
-<br>
+
 <div id="carousel-example-generic" class="carousel slide" data-ride="carousel">
 
   <div class="carousel-inner" role="listbox">
@@ -52,5 +43,3 @@ I would like to learn to write mobile applications that use cloud services. Inte
     <span class="sr-only">Next</span>
   </a>
 </div>
-
-
