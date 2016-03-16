@@ -18,9 +18,11 @@ Sun sign astrology is the form of astrology most commonly found in many newspape
 
 Sun sign astrologers take this basic twelve-fold division and relate all the current movements of all the planets to each other, using traditional rules to divine meanings for each sign separately. Because the Moon has the fastest apparent movement of all the heavenly bodies, it is often used as the main indicator of daily trends for sun sign astrology forecasts.
 # Capricorn
-
+<br>
 
 [Capricorn](https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Capricorn.svg/24px-Capricorn.svg.png) 
+
+![](/images/Astro/Capricorn.PNG) 
 
 Capricorn (♑) (English pronunciation: /kæp.rɪ.kɔːn/) is the tenth astrological sign in the zodiac, originating from the constellation of Capricornus. It spans the 270–300th degree of the zodiac, corresponding to celestial longitude. Capricorn is ruled by the planet Saturn. Under the tropical zodiac, the sun transits this area from December 21 to January 19[1] each year, and under the sidereal zodiac, the sun currently transits the constellation of Capricorn from approximately January 14 to February 14. In astrology, Capricorn is considered an earth sign, introvert sign,[2] a power sign[3] and one of the four cardinal signs. Its symbol is based on the Sumerian primordial god of wisdom and waters, Enki[4] with the head and upper body of a mountain goat, and the lower body and tail of a fish.[5] Later known as Ea in Akkadian and Babylonian mythology, Enki was the god of intelligence (gestú, literally "ear"), creation, crafts; magic; water, seawater and lakewater (a, aba, ab).[6]
 
@@ -32,6 +34,9 @@ Capricorn is third and last of the earth signs in the zodiac. The other two eart
 
 
 # Aquarius
+<br>
+![](/images/Astro/Aquarius.PNG) 
+<br>
 [Aqurius](https://pixabay.com/static/uploads/photo/2015/05/09/07/32/aquarius-759383_960_720.jpg) 
 
 
@@ -47,6 +52,8 @@ Under the tropical zodiac, the sun is in Aquarius typically between January 20 a
 
 ***
 # Pisces
+<br>
+![](/images/Astro/pisces1.jpg) 
 
 [Pisces](ttps://s-media-cache-ak0.pinimg.com/736x/bb/f8/ab/bbf8ab8c381e15e81eb545ee04c59112.jpg) 
 
@@ -56,6 +63,8 @@ According to some tropical astrologers, the current astrological age is the Age 
 
 ***
 # Aries
+<br>
+![](/images/Astro/Aries.PNG) 
 
 [Aries](http://www.hdwallpaperscool.com/wp-content/uploads/2015/04/aries-hd-wallpaper-download-aries-images-free.jpg) 
 
@@ -70,12 +79,16 @@ Aries is the first fire sign in the zodiac, the other fire signs being Leo and S
 
 ***
 # Taurus
+<br>
+![](/images/Astro/Taurus.PNG) 
 
 [Taurus](http://www.kamalkapoor.com/wallpapers/download.php?id=1092&size=2&name=taurus) 
 
 Taurus (Latin for "the Bull"; symbol: Taurus.svg, Unicode: ♉) is the second astrological sign in the present Zodiac. It spans the 30-60th degree of the zodiac, between 27.25 and 54.75 degree of celestial longitude. Under the tropic zodiac, the Sun transits this area on average between April 21 and May 21 each year. Under the sidereal zodiac, the Sun transits the constellation of Taurus from May 15 (approx.) to June 21. People born between these dates, depending on which system of astrology they subscribe to, may be called Taureans.[1][2] The symbol of the bull is based on the Cretan Bull, the white bull that fathered the Minotaur who was killed by Theseus.[3]
 
 # Gemini
+<br>
+![](/images/Astro/Gemini.PNG) 
 
 [Gemini](http://stwww.canoekayak.com/files/2012/08/Gemini.jpg) 
 
@@ -84,6 +97,8 @@ Gemini (pronunciation: /ˈdʒɛmɪnaɪ/ or /ˈdʒɛmɪniː/ JEM-in-eye or JEM-in
 ***
 
 # Cancer
+<br>
+![](/images/Astro/Cancer.PNG) 
 
 [Cancer](http://forwallpapers.com/wp-content/uploads/2014/05/cancer_zodiac_sign_wallpaper_background_dark.jpg) 
 
@@ -93,6 +108,8 @@ Cancer (♋️) (Greek: Καρκίνος, Latin: Cancer) is the fourth astrologi
 ***
 
 # Leo
+<br>
+![](/images/Astro/Leo.PNG) 
 
 [Leo](https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTv0Ms9BiEzMx9_ag469HkBN-8Kty5SPEee1Q6fGVxawr4Ob79j) 
 
@@ -102,6 +119,8 @@ Leo (♌) is the fifth astrological sign of the zodiac, originating from the con
 ***
 
 # Virgo
+<br>
+![](/images/Astro/Virgo.PNG) 
 
 [Virgo](http://thumbs.dreamstime.com/z/constellation-virgo-4961098.jpg) 
 
@@ -109,6 +128,9 @@ Leo (♌) is the fifth astrological sign of the zodiac, originating from the con
 ***
 
 # Libra
+
+![](/images/Astro/Libra.PNG) 
+<br>
 [Libra](http://thumbs.dreamstime.com/z/libra-27823379.jpg) 
 
 
@@ -118,6 +140,8 @@ According to the Tropical system of astrology, the Sun enters the sign of Libra 
 ***
 
 # Scorpio
+<br>
+![](/images/Astro/Scorpio.PNG) 
 
 [Scorpio](http://thumbs.dreamstime.com/z/scorpio-8424995.jpg) 
 
@@ -128,7 +152,10 @@ Scorpio is one of the three zodiac water signs, the others being Cancer and Pisc
 ***
 
 # Sagittarius
+<br>
 
+![](/images/Astro/Sagittarius.PNG) 
+<br>
 [Sagittarius](http://thumbs.dreamstime.com/z/sagittarius-archer-if-your-sign-image-you-fire-sign-cosmic-fire-warrior-universe-31803726.jpg) 
 
 
@@ -144,11 +171,7 @@ Sagittarius, half human and half-horse, is the centaur of mythology, the learned
 
 
 <div id="carousel-example-generic" class="carousel slide" data-ride="carousel">
-  <ol class="carousel-indicators">
-    <li data-target="#carousel-example-generic" data-slide-to="0" class="active"></li>
-    <li data-target="#carousel-example-generic" data-slide-to="1"></li>
-    <li data-target="#carousel-example-generic" data-slide-to="2"></li>
-  </ol>
+  
   <div class="carousel-inner" role="listbox">
     <div class="item active">
       <img class="twenty-five-percent" src="/images/MidtermImages/Aries2.jpg" alt="First slide">
