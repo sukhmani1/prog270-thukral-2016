@@ -8,6 +8,7 @@
 </div>
 
 <br>
+<br>
 
 <a href="AstrologyFinal.html">Astrology</a>
 <br>

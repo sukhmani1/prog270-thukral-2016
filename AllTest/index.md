@@ -11,6 +11,9 @@
 
 I would like to learn to write mobile applications that use cloud services. Integrating them with a legacy system. Working with mobile SDK Packs.
 
+<br>
+Here are the links to some of the projects I have worked on:
+
 </p>
 
 <br>
