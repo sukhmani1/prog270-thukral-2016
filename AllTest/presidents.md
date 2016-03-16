@@ -10,17 +10,7 @@
 <br>
 <br>
 
-<a href="AstrologyFinal.html">Astrology</a>
-<br>
-<a href="NumerologyFinal.html">Numerology</a>
-<br>
-<a href="california.html">California</a>
-<br>
-<a href="canada.html">Canada</a>
-<br>
-<a href="BootstrapThemes.html">BootstrapThemes</a>
-<br>
-<a href="WalkingMap.html">WalkingMap</a>
+
 
 <div id="carousel-example-generic" class="carousel slide" data-ride="carousel">
 
