@@ -1,0 +1,66 @@
+
+## Button
+
+<div class="padded">
+<button type="button" class="btn btn-lg btn-default">Nissan</button>
+<button type="button" class="btn btn-lg btn-primary">Mazda</button>
+<button type="button" class="btn btn-lg btn-default">McLaren</button>
+<button type="button" class="btn btn-lg btn-primary">Porsche</button>
+<button type="button" class="btn btn-lg btn-default">MINI</button>
+<button type="button" class="btn btn-lg btn-primary">Smart</button>
+</div>
+
+<div>
+<button type="button" class="btn btn-xs btn-default">Lexus</button>
+<button type="button" class="btn btn-xs btn-primary">Nissan</button>
+<button type="button" class="btn btn-xs btn-success">Volkswagen</button>
+<button type="button" class="btn btn-xs btn-info">Lincoln</button>
+<button type="button" class="btn btn-xs btn-default">Rolls-Royce</button>
+<button type="button" class="btn btn-xs btn-default">Scion</button>
+</div>
+
+<br>
+<div class="container">
+  <h2>Button Sizes</h2>
+  <button type="button" class="btn btn-primary btn-lg">Large</button>
+<br>
+<br>
+  <button type="button" class="btn btn-primary btn-md">Medium</button>    
+<br>
+<br>
+  <button type="button" class="btn btn-primary btn-sm">Small</button>
+<br>
+<br>
+  <button type="button" class="btn btn-primary btn-xs">XSmall</button>
+</div>
+
+## Alerts
+<div class="padded" role="alert">
+    <strong>Well done!</strong> You successfully read this important alert message.
+  </div>
+
+<div class="alert alert-success" role="alert">Lexus</div>
+<div class="alert alert-info" role="alert">Scion</div>
+<div class="alert alert-warning" role="alert">Volkswagen</div>
+<div class="alert alert-danger" role="alert">Nissan</div>
+
+## Labels
+
+
+<span class="label label-primary">Primary</span>
+<span class="label label-success">Success</span>
+<span class="label label-info">Info</span>
+<span class="label label-warning">Warning</span>
+<span class="label label-danger">Danger</span>
+
+# ELAP 
+![ELAP](/images/Final/ELAP.PNG  "ELAP")
+<br>
+# Microsoft
+![Microsoft](/images/Final/Microsoft.PNG  "Microsoft")
+<br>
+# TestOut
+![TestOut](/images/Final/Testout.PNG  "TestOut")
+<br>
+# Salesforce
+![Salesforce](/images/Final/Salesforce.PNG  "Salesforce")

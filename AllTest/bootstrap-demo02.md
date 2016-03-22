@@ -4,9 +4,6 @@
 
 ***
 
-
-
-
 <p>I am Sukhmani. I have spent more than 10 years writing code. I started working on HTML, CSS, Java Script then moved on to SQL and  C#. I have been exploring cloud computing for some time. I got my Salesforce Developer certification last year. I have been undergoing training for AWS, Lubuntu and Linux 
 
 I would like to learn to write mobile applications that use cloud services. Integrating them with a legacy system. Working with mobile SDK Packs.
@@ -60,6 +57,14 @@ Here are the links to some of the projects I have worked on:
 
 <a href="Certificates.html">Certificates</a>
 
+<p class="text-muted">ELAP</p>
+<p class="text-primary">Salesforce</p>
+<p class="text-success">TestOut</p>
+<p class="text-info">Microsoft</p>
+
+
+
+
 <br>
   <button id="viewCertificates" type="button"> View Certificates </button>
 </div>
@@ -71,6 +76,89 @@ Here are the links to some of the projects I have worked on:
 
 <br>
 <br>
+
+<div class="container">
+  <h2>Table</h2>
+                                                                                    
+  <div class="table-responsive">          
+  <table class="table">
+    <thead>
+      <tr>
+        <th>ID</th>
+        <th>Certificates</th>
+       
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>1</td>
+        <td>Salesforce</td>
+       
+      </tr>
+
+ <tr>
+        <td>2</td>
+        <td>TestOut</td>
+       
+      </tr>
+ <tr>
+        <td>3</td>
+        <td>Microsoft</td>
+       
+      </tr>
+    </tbody>
+  </table>
+  </div>
+</div>
+
+
+
+
+
+
+<br>
+
+<br>
+
+<img src="/images/california/2015-12-19_09.52.45.jpg" class="img-responsive" alt="California">
+<br>
+<br>
+
+<img src="/images/california/2015-12-19_09.35.26.jpg" class="img-responsive" alt="California">
+
+  <script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>
+</head>
+<body>
+
+<div class="container">
+  <h2>Image1</h2>
+     
+  <img src="/images/canada/2016-02-27_09.11.28.jpg" class="img-circle" alt="Cinque Terre" width="304" height="236"> 
+
+<br>
+
+  <h2>Image2</h2>
+
+<br>
+
+  <img src="/images/canada/2016-02-27_10.09.03.jpg" class="img-circle" alt="Cinque Terre" width="304" height="236"> 
+
+<br>
+
+  <h2>Image3</h2>
+
+<br>
+  <img src="/images/canada/2016-02-27_09.08.10.jpg" class="img-circle" alt="Cinque Terre" width="304" height="236"> 
+
+
+
+</div>
+
+</body>
+</html>
+
+
+
 
 <br> 
 
