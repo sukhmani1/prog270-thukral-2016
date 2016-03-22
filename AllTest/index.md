@@ -19,20 +19,28 @@ Here are the links to some of the projects I have worked on:
 
 <br>
 
-<a href="AstrologyFinal.html">Astrology</a>
+
+<a href="presidents.html">Mapping Databases</a>
+<br>
+<a href="bootstrap-demo02.html">bootstrap-demo02</a>
+<br>
+<a href="demo2.html">bootsrap-demo01</a>
+<br>
+<a href="AstrologyFinal.html"> Theme Site (Astrology)</a>
 <br>
 <a href="Summary.html">Summary</a>
 <br>
-<a href="NumerologyFinal.html">Numerology</a>
+<a href="NumerologyFinal.html">Markdown Example (Numerology)</a>
 <br>
-<a href="california.html">California</a>
+<a href="california.html">Pictures (California)</a>
 <br>
-<a href="canada.html">Canada</a>
+<a href="canada.html">Pictures (Canada)</a>
 <br>
 <a href="BootstrapThemes.html">BootstrapThemes</a>
 <br>
-<a href="WalkingMap.html">WalkingMap</a>
+<a href="WalkingMap.html">Markdown Example(WalkingMap)</a>
 <br>
+<a href="Certificates.html">Markdown Example(Certificates)</a>
 <br>
 <br>
 <br>
